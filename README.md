@@ -2,3 +2,5 @@
 My first internal project
 
 Hello word
+
+I added to my Intern_Project some features in Gherkin
